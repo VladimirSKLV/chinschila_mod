@@ -1,3 +1,5 @@
 {
-  "entity.chinschilamod.chinchilla": "Шиншилла"
+  "entity.chinschilamod.chinchilla": "Шиншилла",
+  "item.chinschilamod.chinchilla_spawn_egg": "Яйцо шиншиллы",
+  "creativetab.chinchilla_tab": "Шиншилла"
 }
