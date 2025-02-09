@@ -1,0 +1,25 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.chinchilla.idle": {
+      "loop": true,
+      "animation_length": 2,
+      "bones": {
+        "tail": {
+          "rotation": {
+            "0.0": [0, 0, 0],
+            "1.0": [5, 0, 0],
+            "2.0": [0, 0, 0]
+          }
+        },
+        "head": {
+          "rotation": {
+            "0.0": [0, 0, 0],
+            "1.0": [2, 0, 0],
+            "2.0": [0, 0, 0]
+          }
+        }
+      }
+    }
+  }
+}
