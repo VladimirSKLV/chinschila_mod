@@ -49,7 +49,7 @@ public class ChinchillaEntity extends Animal implements GeoEntity {
     }
 
     private PlayState predicate(AnimationState<ChinchillaEntity> event) {
-        event.getController().setAnimation(RawAnimation.begin().then("animation.chinchilla.idle", Animation.LoopType.LOOP));
+        event.getController().setAnimation(RawAnimation.begin().then("chinchilla.animation", Animation.LoopType.LOOP));
         return PlayState.CONTINUE;
     }
 
